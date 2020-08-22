@@ -17,7 +17,9 @@ app.use(
 const registered_url = "http://localhost:8080/auth/twitch/callback";
 const token_url = "https://id.twitch.tv/oauth2/token";
 const accept_header = "application/vnd.twitchtv.v5+json";
+// According to Twitch API, client_id can be public but not client_secret
 const client_id = "xkyrrtn215pha1wadznenllkxm9f03";
+// client_secret is hidden in secret_key.js which is not added to git
 const client_secret = secret_key.client_secret;
 
 app.post("/auth/twitch/callback", urlencodedParser, function (req, res) {
