@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/calvinhychu-YourTwitchClips/static/css/main.3030c341.chunk.css",
-    "main.js": "/calvinhychu-YourTwitchClips/static/js/main.968662d7.chunk.js",
-    "main.js.map": "/calvinhychu-YourTwitchClips/static/js/main.968662d7.chunk.js.map",
-    "runtime-main.js": "/calvinhychu-YourTwitchClips/static/js/runtime-main.c45280f1.js",
-    "runtime-main.js.map": "/calvinhychu-YourTwitchClips/static/js/runtime-main.c45280f1.js.map",
-    "static/css/2.11829350.chunk.css": "/calvinhychu-YourTwitchClips/static/css/2.11829350.chunk.css",
-    "static/js/2.70c588d2.chunk.js": "/calvinhychu-YourTwitchClips/static/js/2.70c588d2.chunk.js",
-    "static/js/2.70c588d2.chunk.js.map": "/calvinhychu-YourTwitchClips/static/js/2.70c588d2.chunk.js.map",
-    "index.html": "/calvinhychu-YourTwitchClips/index.html",
-    "precache-manifest.dbe81c458fa598bbe19e950beb63d52c.js": "/calvinhychu-YourTwitchClips/precache-manifest.dbe81c458fa598bbe19e950beb63d52c.js",
-    "service-worker.js": "/calvinhychu-YourTwitchClips/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/calvinhychu-YourTwitchClips/static/css/2.11829350.chunk.css.map",
-    "static/css/main.3030c341.chunk.css.map": "/calvinhychu-YourTwitchClips/static/css/main.3030c341.chunk.css.map",
-    "static/js/2.70c588d2.chunk.js.LICENSE.txt": "/calvinhychu-YourTwitchClips/static/js/2.70c588d2.chunk.js.LICENSE.txt",
-    "static/media/icon.png": "/calvinhychu-YourTwitchClips/static/media/icon.08d98858.png"
+    "main.css": "/YourTwitchClips/static/css/main.3030c341.chunk.css",
+    "main.js": "/YourTwitchClips/static/js/main.b71c86dd.chunk.js",
+    "main.js.map": "/YourTwitchClips/static/js/main.b71c86dd.chunk.js.map",
+    "runtime-main.js": "/YourTwitchClips/static/js/runtime-main.6605ad2b.js",
+    "runtime-main.js.map": "/YourTwitchClips/static/js/runtime-main.6605ad2b.js.map",
+    "static/css/2.11829350.chunk.css": "/YourTwitchClips/static/css/2.11829350.chunk.css",
+    "static/js/2.70c588d2.chunk.js": "/YourTwitchClips/static/js/2.70c588d2.chunk.js",
+    "static/js/2.70c588d2.chunk.js.map": "/YourTwitchClips/static/js/2.70c588d2.chunk.js.map",
+    "index.html": "/YourTwitchClips/index.html",
+    "precache-manifest.5ac44a534c6333eb019d1f8cb838365a.js": "/YourTwitchClips/precache-manifest.5ac44a534c6333eb019d1f8cb838365a.js",
+    "service-worker.js": "/YourTwitchClips/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/YourTwitchClips/static/css/2.11829350.chunk.css.map",
+    "static/css/main.3030c341.chunk.css.map": "/YourTwitchClips/static/css/main.3030c341.chunk.css.map",
+    "static/js/2.70c588d2.chunk.js.LICENSE.txt": "/YourTwitchClips/static/js/2.70c588d2.chunk.js.LICENSE.txt",
+    "static/media/icon.png": "/YourTwitchClips/static/media/icon.08d98858.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c45280f1.js",
+    "static/js/runtime-main.6605ad2b.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.70c588d2.chunk.js",
     "static/css/main.3030c341.chunk.css",
-    "static/js/main.968662d7.chunk.js"
+    "static/js/main.b71c86dd.chunk.js"
   ]
 }
