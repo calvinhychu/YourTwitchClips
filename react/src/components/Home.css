@@ -1,0 +1,16 @@
+.Home {
+  text-align: center;
+}
+
+.header {
+  margin-top: 80px;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.instruction {
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 25px;
+}
+.connect {
+  margin-top: 100px;
+}

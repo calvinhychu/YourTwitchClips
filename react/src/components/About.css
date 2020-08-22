@@ -1,0 +1,19 @@
+.about {
+    width: 1000px;
+  padding: 40px;
+  margin: 20px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.use {
+    margin-bottom: 30px;
+}
+
+.privacy {
+    margin-bottom: 30px;
+}
+
+.disclaimer {
+    margin-bottom: 30px;
+}

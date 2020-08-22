@@ -1,0 +1,23 @@
+.title{
+    position: absolute;
+    right: 1000px;
+}
+
+.buttons {
+    position: absolute;
+    margin-top: 50px;
+    right: 200px;
+  }
+
+.loader {
+    position: absolute;
+    right: 680px;
+    top: 310px;
+}
+
+.top_clips {
+    display: flex;
+    margin-top: 200px;
+    margin-left: 150px;
+    flex-wrap: wrap;
+}

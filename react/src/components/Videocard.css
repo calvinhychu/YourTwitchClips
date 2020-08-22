@@ -1,0 +1,52 @@
+.videoCard {
+  margin-bottom: 15px;
+  width: 396px;  
+  margin-right: 10px;  
+}
+
+.container {
+  position: relative;
+}
+
+.views {
+  position: absolute;
+  bottom: 0px;
+  left: 15px;
+  font-size: 13px;
+  background-color: black;
+  color: white;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+
+.duration {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  font-size: 13px;
+  background-color: black;
+  color: white;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.info {
+    margin-left: 15px;
+}
+
+.clip_title {
+  color: black;
+    font-size: 18px;
+}
+
+.channel {
+  margin-top: -12px;
+}
+
+.channel_name {
+  color: gray;
+  font-size: 12px;
+}
+
+
