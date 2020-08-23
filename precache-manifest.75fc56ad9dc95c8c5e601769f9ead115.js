@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "842676c31b50ded0eecce92425882396",
+    "revision": "94485660fb4c3b7fa6aa620569033918",
     "url": "/YourTwitchClips/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YourTwitchClips/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "9c13799cb374a826a877",
+    "revision": "13f0e16e3dd9b73e2a39",
     "url": "/YourTwitchClips/static/css/main.3030c341.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YourTwitchClips/static/js/2.47656167.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c13799cb374a826a877",
-    "url": "/YourTwitchClips/static/js/main.f472f32c.chunk.js"
+    "revision": "13f0e16e3dd9b73e2a39",
+    "url": "/YourTwitchClips/static/js/main.ead47404.chunk.js"
   },
   {
     "revision": "8b681ecce4f58b699803",

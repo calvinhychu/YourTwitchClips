@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YourTwitchClips/static/css/main.3030c341.chunk.css",
-    "main.js": "/YourTwitchClips/static/js/main.f472f32c.chunk.js",
-    "main.js.map": "/YourTwitchClips/static/js/main.f472f32c.chunk.js.map",
+    "main.js": "/YourTwitchClips/static/js/main.ead47404.chunk.js",
+    "main.js.map": "/YourTwitchClips/static/js/main.ead47404.chunk.js.map",
     "runtime-main.js": "/YourTwitchClips/static/js/runtime-main.6605ad2b.js",
     "runtime-main.js.map": "/YourTwitchClips/static/js/runtime-main.6605ad2b.js.map",
     "static/css/2.11829350.chunk.css": "/YourTwitchClips/static/css/2.11829350.chunk.css",
     "static/js/2.47656167.chunk.js": "/YourTwitchClips/static/js/2.47656167.chunk.js",
     "static/js/2.47656167.chunk.js.map": "/YourTwitchClips/static/js/2.47656167.chunk.js.map",
     "index.html": "/YourTwitchClips/index.html",
-    "precache-manifest.76f77ab474975819b4bb128c3705690b.js": "/YourTwitchClips/precache-manifest.76f77ab474975819b4bb128c3705690b.js",
+    "precache-manifest.75fc56ad9dc95c8c5e601769f9ead115.js": "/YourTwitchClips/precache-manifest.75fc56ad9dc95c8c5e601769f9ead115.js",
     "service-worker.js": "/YourTwitchClips/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/YourTwitchClips/static/css/2.11829350.chunk.css.map",
     "static/css/main.3030c341.chunk.css.map": "/YourTwitchClips/static/css/main.3030c341.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.47656167.chunk.js",
     "static/css/main.3030c341.chunk.css",
-    "static/js/main.f472f32c.chunk.js"
+    "static/js/main.ead47404.chunk.js"
   ]
 }
