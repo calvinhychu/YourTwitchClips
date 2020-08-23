@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0393cbe54613758dd5eb7e07bd9778e7",
+    "revision": "c2359db39261f45a04b58b75832a3f3a",
     "url": "/YourTwitchClips/index.html"
   },
   {
-    "revision": "46eabdc395c96c0928a3",
+    "revision": "020e972d4ba1af175fcc",
     "url": "/YourTwitchClips/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "86d4babae068574c52b6",
+    "revision": "81ba92d924679f9f90da",
     "url": "/YourTwitchClips/static/css/main.3030c341.chunk.css"
   },
   {
-    "revision": "46eabdc395c96c0928a3",
-    "url": "/YourTwitchClips/static/js/2.47656167.chunk.js"
+    "revision": "020e972d4ba1af175fcc",
+    "url": "/YourTwitchClips/static/js/2.70c588d2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/YourTwitchClips/static/js/2.47656167.chunk.js.LICENSE.txt"
+    "url": "/YourTwitchClips/static/js/2.70c588d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86d4babae068574c52b6",
-    "url": "/YourTwitchClips/static/js/main.2a5da338.chunk.js"
+    "revision": "81ba92d924679f9f90da",
+    "url": "/YourTwitchClips/static/js/main.e135b2a5.chunk.js"
   },
   {
     "revision": "8b681ecce4f58b699803",
