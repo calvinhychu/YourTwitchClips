@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./About.css";
 
 function About() {
@@ -30,6 +31,12 @@ function About() {
           invite all of you with any ideas or suggestions to improve
           YourTwitchClips to visit our Github repository and join our community.
         </div>
+        <a
+          href="https://github.com/calvinhychu/YourTwitchClips"
+          class="btn btn-dark"
+        >
+          GitHub
+        </a>
       </div>
       <Footer />
     </div>
