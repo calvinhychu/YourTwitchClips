@@ -6,8 +6,12 @@ import Clip from "./Clip";
 import Footer from "./Footer";
 import "./Home.css";
 
+const client_id = "xkyrrtn215pha1wadznenllkxm9f03";
 const auth_url =
-  "https://id.twitch.tv/oauth2/authorize?client_id=xkyrrtn215pha1wadznenllkxm9f03&redirect_uri=http://localhost:3000&response_type=code&scope=user_read";
+  "https://id.twitch.tv/oauth2/authorize?client_id=" +
+  client_id +
+  "&redirect_uri=http://localhost:3000&response_type=code&scope=user_read";
+
 class Home extends React.Component {
   constructor(props) {
     super(props);
