@@ -59,5 +59,9 @@ YourTwitchClips uses axios to make HTTP call from client-side to server-side, se
 
 Server-side takes advantage of Express.js module for routing and API call. 
 
+
+## Privacy
+YourTwitchClips connects your Twitch account via the official authentication domain dedicated to Twitch in https://id.twitch.tv. No privacy information like username and password is collected or retained in the server.
+
 ## Disclaimer
 YourTwitchClips is not affiliated with Twitch and is only used for non-profit purposes. All clips are properties of their respective broadcaster or Twitch, YourTwitchClips do not moderate content of any of clips.
