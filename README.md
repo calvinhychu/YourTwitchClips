@@ -52,12 +52,12 @@ React server should now be hosted at http://localhost:3000/
 Node server should now be hosted at http://localhost:8080/
 
 
-### How it works
+## How it works
 YourTwitchClips utilizes Twitch API to get access of Twitch user's follow list and list of top clips from each followed channel. 
 
 YourTwitchClips uses axios to make HTTP call from client-side to server-side, server-side then make HTTP call to Twitch API and return it back to client-side. 
 
 Server-side takes advantage of Express module for routing and API call. 
 
-### Disclaimer
+## Disclaimer
 YourTwitchClips is not affiliated with Twitch and is only used for non-profit purposes. All clips are properties of their respective broadcaster or Twitch, YourTwitchClips do not moderate content of any of clips.
