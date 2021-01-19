@@ -19,7 +19,7 @@ If you want to run this project locally:
 ### Register application at Twitch
 1. Register your application at https://dev.twitch.tv/console/apps
 2. Add http://localhost:3000/ and http://localhost:8000/auth/twitch/callback/ under OAuth Redirect URLs
-3. Record down your client_ID and client_secret. client_secret MUST be kept confidential.
+3. Record down your client_ID and client_secret. According to Twitch API, client_secret MUST be kept confidential.
 
 ### Clone this project
 
